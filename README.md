@@ -55,11 +55,10 @@ git clone https://github.com/HiteshMadaan28/Dynamic_Image_Retrieval.git
 ## Screenshots
 
 Here are a few screenshots of the app in action:
-
-![App Screenshot 2](screenshots/URLpasting.png)
-![App Screenshot 1](screenshots/ImageFetchedColored.png)
-![App Screenshot 2](screenshots/ImageFetchedGray.png)
-![App Screenshot 2](screenshots/FailedError.png)
+<img src="screenshots/URLpasting.png" width="400" />
+<img src="screenshots/ImageFetchedColored.png" width="400" />
+<img src="screenshots/ImageFetchedGray.png" width="400" />
+<img src="screenshots/FailedError.png" width="400" />
 
 ## Contributing
 
