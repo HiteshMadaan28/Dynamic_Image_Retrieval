@@ -44,8 +44,7 @@ git clone https://github.com/HiteshMadaan28/Dynamic_Image_Retrieval.git
 
 4. **Monitor the Status**:
 - The circular indicator will show the status of the image load:
-  - **Gray**: Idle/Loading
-  - **Orange**: Image is loading
+  - **Gray**: Initial/Loading
   - **Green**: Image loaded successfully
   - **Red**: Image load failed
 
