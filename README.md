@@ -56,10 +56,10 @@ git clone https://github.com/HiteshMadaan28/Dynamic_Image_Retrieval.git
 
 Here are a few screenshots of the app in action:
 
-![App Screenshot 1](screenshots/Simulator Screenshot - iPhone 16 - 2025-03-21 at 17.32.13.png)
-![App Screenshot 2](screenshots/Simulator Screenshot - iPhone 16 - 2025-03-21 at 17.32.18.png)
-![App Screenshot 2](screenshots/Simulator Screenshot - iPhone 16 - 2025-03-21 at 17.32.35.png)
-![App Screenshot 2](screenshots/Simulator Screenshot - iPhone 16 - 2025-03-21 at 17.32.21.png)
+![App Screenshot 1](Dynamic_Image_Retrieval/screenshots/Simulator Screenshot - iPhone 16 - 2025-03-21 at 17.32.13.png)
+![App Screenshot 2](Dynamic_Image_Retrieval/screenshotsSimulator Screenshot - iPhone 16 - 2025-03-21 at 17.32.18.png)
+![App Screenshot 2](Dynamic_Image_Retrieval/screenshotsSimulator Screenshot - iPhone 16 - 2025-03-21 at 17.32.35.png)
+![App Screenshot 2](Dynamic_Image_Retrieval/screenshotsSimulator Screenshot - iPhone 16 - 2025-03-21 at 17.32.21.png)
 
 ## Contributing
 
